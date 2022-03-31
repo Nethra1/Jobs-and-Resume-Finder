@@ -1,0 +1,186 @@
+
+company -----> OhhFoods
+position -----> Administrative Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-ohhfoods-2995893908?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=11BQeFiKRZZVDUgL7DmQbg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Ewing Morris & Co. Investment Partners Ltd.
+position -----> Administrative Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-ewing-morris-co-investment-partners-ltd-2978505246?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=AeJo77XZwb9QYOIWeubnkw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Stikky Media Inc.
+position -----> Administrative Assistant
+location -----> British Columbia, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-stikky-media-inc-2321050696?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=IezG3oApn%2FSfuR%2FpXg42WQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Intact
+position -----> Administrative Assistant
+location -----> Dartmouth, NS
+link -----> https://ca.indeed.com/rc/clk?jk=9965c897be2f8a8f&fccid=a614b30520ebe6c9&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Peak Associates Limited
+position -----> Administrative Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-peak-associates-limited-2991309895?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=6K40k1gDPWH9u02dchAgDA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> TD
+position -----> Admin Assistant- EN
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/admin-assistant-en-at-td-2998641751?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=tuT6csp1dZzC2FI54XmnSQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Ryerson University
+position -----> Administrative Assistant
+location -----> Hybrid remote in Toronto, ON
+link -----> https://ca.indeed.com/rc/clk?jk=7a25075c14100cd5&fccid=4ef803080f204758&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Island Health
+position -----> Administrative Assistant I
+location -----> Victoria, BC+1 location
+link -----> https://ca.indeed.com/rc/clk?jk=72e86fb893c31777&fccid=139e079044c36dab&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Ontario Clean Water Agency
+position -----> HUB ADMINISTRATIVE ASSISTANT
+location -----> Union, ON+1 location
+link -----> https://ca.indeed.com/rc/clk?jk=5147712a77d04cd5&fccid=c2d31ef165159e77&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Globeia
+position -----> Administrative Assistant
+location -----> Scarborough, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-globeia-2953640553?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=%2BFG4B1iI79jE1JV39v289Q%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> G. Kirk Baines President, Allied Financial Services - Senior Investment Advisor, Manulife Securities
+position -----> Administration Assistant
+location -----> London, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administration-assistant-at-g-kirk-baines-president-allied-financial-services-senior-investment-advisor-manulife-securities-2984863968?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=ivtrLBTZ6lfUwr2wGDetXw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Vale
+position -----> Admin Assistant III
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/admin-assistant-iii-at-vale-2999713264?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=PQQXCYCKfdP6ies6gr2Qkg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> CAST Group of Companies Inc.
+position -----> Administrative Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-cast-group-of-companies-inc-2983927108?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=6rWMJJJmrOR%2FeVxJWL4c4g%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> null
+position -----> Administrative Assistant
+location -----> Greater Toronto Area, Canada
+link -----> null
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> TD
+position -----> Admin Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/admin-assistant-at-td-2998642496?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=VVgtjDx0l5HCaSMgjYZn6g%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> null
+position -----> administrative assistant
+location -----> Toronto, Ontario, Canada
+link -----> null
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> BC Hydro
+position -----> Administrative Support Assistant
+location -----> Burnaby, BC
+link -----> https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AHNHQQNOHLWtoW8WHxcjvUFHz12EfcISIvFlxdnrjO6omAp-HS0cWKok3-iBCwIZ9qXJNOqWLdIY5nKpNocv8-L4W5Df2wVVoXh4EOKZ7r6WrQNDX5GPRpYcTPzloc1z3bBr95fmL_nt6xN6oB9tX8jC3I1KxqjENv8Rso74JTSY0oIZD-R_cI0AANy82iM7g4ETx0Jpo4SBq0poLWSzjTorzklyh1m-fDPQw0-Q1IVKJVa9AaZD8dy7JTWFYmYNcOb_Urg3-mBUFBwecCY-yeYf6nRSuKg09ypCGrxHhZAKkOAnLA3HL_OyYUsb9_CBG-ogkEhtA7-Ah6iqQJfih48e8YXMLpnrFSLn1tC8YR_nPC56XSaoxc9BgTCOLIAAcXBMkADJVc-qAviL6QERrzovdzcriKaRBAdWJBzQr8KEgrwM4om4aviuTgnrVCwIzU0aoYE4-U9Bn_-i_EvLImzb7WKOjRWX78rHbFXD2d_thrDOV-Ka8jiT0-x5v2WfiKzQctdjCwVjBa7BKwM0Wk7FfoVx1YZkX7UvCkqX_KbkdzbK2HHgOK6Uo94kpzsVFxDEP4NoQ9VglGNTI8agvqw9KB09jkeSzAJrd4GX1xpJtIzfIqJw9vdcrIySrXr9jqo60PTb14PdG67t_Gk_2x2M2p3TmFbfvQRXo6DXw2QGJpJbsHkvQSIyuwc2DHrJUGAIoOqo7yaJc6ySHYDQ5XKdBXc-OTrnysQ_EqiSr14CqUdYMf0rsXgziKRe24rCb4gXpwLAUYYzY-e70FZqvn5_JE6PBOq-6cLq4WYLpydeKFKExIM4SxpM8EjJEynEoTX95hecntjca28zusi-6C09A290DLQTHPuYKp8_-jmA==&p=3&fvj=0&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Compass Group
+position -----> Administrative Assistant
+location -----> Vancouver, BC+1 location
+link -----> https://ca.indeed.com/rc/clk?jk=7899f6600ffceed8&fccid=c55f4ad42cee2cd3&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Leap Recruitment Partners
+position -----> Administrative Assistant
+location -----> Hamilton, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-leap-recruitment-partners-2998932650?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=Qo%2BGhq8Ns%2Fr5GUODejxGrQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> BC Hydro
+position -----> Administrative Assistant 1
+location -----> Burnaby, BC+1 location
+link -----> https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AHNHQQNOHLWtoW8WHxcjvUFHz12EfcISIvFlxdnrjO6omAp-HS0cWKok3-iBCwIZ9XnSiI9YltkZM-T6mOl5RAuG63MurHpL3SHianj8WbxlGw-rENaqmDITqM_L4XklzSj7ecyX7Os0YfdfUEXUI-ZngNPQPdfh42Bmyd1TABuDYhwHJ5hVDaKmpgia7-e7qA7giSOBm0qnI8PbphkovL7zdswOJp2o1orcj1VRH2btvF3VBDb7Iek4Gm5ycLh2PvDCAySN8vvOf3mFOKrb4kikjceIzThajwwtEQyM89wRcERHQk4xV8O-SPNF7hre3Q1mtFHHXr_KGFNbBAojJ0VjmT0L9uccADgvxNguDYEvRAVx0LEAuH2LF-Dd-saqWhGoxSm4jC0zq6FmUWSdePHrlD8nB_r2l8AO8ZhabJ_wBMOLT4KAWgunbHy5dk0uK6esEtWgk_wovIH8tkGal4iDbhAbnoPdFZZrB6FmZcbtze8Z_BUfYADyhRjYyvh_C5W8D0tK-aQot-5YmUAymuE4dz9zlzFyMvSZXiywZ6re1Cki8N6D-j8MxzjDBYV2u1XEAic3tFGy8KYuRu14A7PorLGdqmWq4P97kuLpmdq_VMMeRY9pTBuR4E5eRbW7xcmzArc_UqzcH0euwy-8t873p-fO2thxer60DjiW8BqezPFpbhdYlA0JgJCeQi_ZF_rXV_aUiEaTW0nj2r6nv3a3eo1gI3aRpgnx8cSTowNrFTOYU2DKngvQYydrj5jHm7z2KJs1CfN2H3cjjGBzQqETxjVE7kuK_1YGF_ATWqPEKNZZOfocz0JcKunGaT1pWrgfhZYqUx7EHAQrg-gs6YUOwKr3QhGYqGvgaWpC2iEg==&p=0&fvj=0&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> Quantum Management Services Ltd.
+position -----> Administrative Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-quantum-management-services-ltd-2991012369?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=rUpwparzvCvOVYjtSnjnHQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Uline
+position -----> Warehouse Administrative Assistant
+location -----> St. Albert, AB
+link -----> https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ad3giXQyOqSjtuCazZCjThtx5L7e01X6oDYMq-RePRDV1d8-lsAsKLcQbUBeNX6xsw-3d4U80_UvjF5b3JNirm1xbEyLnbhEFLePUCZHm1SVpiZ92paXajJtuHyRprzORYIc43ycZvmPPIwp_-lyb_DgcNpWBvUidkq82PlKn2PuRV7FKWs2fdEMy8wqY391XMcZ-xjHSVD6_FVlHYwUwjoQJ3Qkda2pCoMqG_BdGmaO_Q-pm2irPyi3kj-cYqM9NKrxfBAjFHB_e2Cf2vXJCOWK_gOsg5EZMZB18xPO1yUOjr1aPHpvISpuB5hsKXqU8GErVCZb5Y2YLB_sS92dQ19PsfYdbVSAfqdE7_HtBUZ4of_NxqnJRGShLQxrJR-pLZ4__3u5xQXMJqD214xzUOy-d_6d1HdnQgCoToZYoX4Oi5-KljyWJQmMe6qBJnQEIvc9iRtQZRDE0G9WjCqdrz-brxYoUfyMq6qmyxCTg61G0yNWwllW5hNT6pIr9kZI40teqliHHfyM9hzYaouyEQp8dQKmk7lFOy0gnfBEaOY1gsn0wQzsA20PXVoIen8l1vG2to3K751zkDCjvfZ-vXXUHpdoibHF0=&p=2&fvj=0&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+company -----> KnollCrayne
+position -----> Administrative Assistant (Remote)
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-remote-at-knollcrayne-2998069376?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=4AP0QD2YsS4aLHL36iIuuA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Bnei Akiva Schools of Toronto
+position -----> Administrative Assistant
+location -----> Toronto, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-bnei-akiva-schools-of-toronto-2998469208?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=VaYAvBNoMSu63KnsRip90A%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Epicor
+position -----> Administrative Assistant
+location -----> Richmond Hill, Ontario, Canada
+link -----> https://ca.linkedin.com/jobs/view/administrative-assistant-at-epicor-2995078262?refId=kmOx3s7hKX3bk%2FONwolDWQ%3D%3D&trackingId=1M0yuXAZsImfNK9hoP%2FmJQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card
+onIndeed -----> false
+onLinkedin -----> true
+
+company -----> Government of Saskatchewan
+position -----> Administrative Support
+location -----> Saskatoon, SK+1 location
+link -----> https://ca.indeed.com/rc/clk?jk=cb11d9a5e836e41d&fccid=46b05e24085a766c&vjs=3
+onIndeed -----> true
+onLinkedin -----> false
+
+linkedinJobs -----> 17
+indeedJobs -----> 9
+bothJobs -----> 0
