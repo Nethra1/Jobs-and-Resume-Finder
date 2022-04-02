@@ -6,10 +6,35 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/OneDrive - University of Windsor/Windsor/Class/Sem 1/ACC/Project/JobAlerts/jsoup-1.14.3.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/UWinSearch-main/source/lib/jsoup-1.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/xmlbeans-5.0.3/lib/log4j-api-2.17.1.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/xmlbeans-5.0.3/lib/log4j-core-2.17.1.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/xmlbeans-5.0.3/lib/xmlbeans-5.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/xmlbeans-5.0.3/lib/xmlbeans-5.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/xmlbeans-5.0.3/lib/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-collections4-4.4/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-collections4-4.4/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-io-2.11.0/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-io-2.11.0/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-io-2.11.0/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-compress-1.21/commons-compress-1.21-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-compress-1.21/commons-compress-1.21-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-compress-1.21/commons-compress-1.21-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-compress-1.21/commons-compress-1.21-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/nethravijayadas/Downloads/commons-compress-1.21/commons-compress-1.21.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,24 +1,29 @@
 package JobScraper;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.io.PrintStream;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class Scraper {
 
     public static Map<String, JobWrapper> jobsMap = new HashMap<String, JobWrapper>();
     public static final String INDEED = "indeed";
     public static final String LINKEDIN = "linkedIn";
-
-    public static void main(String[] args) {
-
-        // String url =
-        // "https://www.linkedin.com/jobs/search?keywords=Full%20Stack%20Engineer&location=Windsor%2C%20Ontario%2C%20Canada&geoId=101750980&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0";
-        // String url2 =
-        // "https://www.linkedin.com/jobs/search?keywords=Full%20Stack%20Engineer";
-        // ArrayList<String> visited = new ArrayList<>();
-        String position = "administrative assistant";
+    
+    public void scrapeLinkedInAndIndded(String position) throws IOException {
+//    	String position = "administrative assistant";
         String location = "Canada";
 
         // crawl(1, url, visited, 1);..
@@ -42,6 +47,9 @@ public class Scraper {
         int indeedJobs = 0;
         int bothJobs = 0;
 
+        Map<Integer, Object[]> jobData = new TreeMap<Integer, Object[]>();
+        jobData.put(1, new Object[] { "ID", "Company", "Position", "Location", "Job Link", "From Indeed", "From LinkedIn" });
+        Integer i = 1;
         for (JobWrapper job : Scraper.jobsMap.values()) {
             System.out.println("\ncompany -----> " + job.companyName);
             System.out.println("position -----> " + job.position);
@@ -49,7 +57,7 @@ public class Scraper {
             System.out.println("link -----> " + job.link);
             System.out.println("onIndeed -----> " + job.onIndeed);
             System.out.println("onLinkedin -----> " + job.onLinkedin);
-
+            jobData.put(i++, new Object[] {i.toString(), job.companyName, job.position, job.location, job.link, job.onIndeed.toString(), job.onLinkedin.toString()});
             if (job.onIndeed == true && job.onLinkedin == true) {
                 bothJobs++;
             } else if (job.onIndeed == true) {
@@ -59,12 +67,50 @@ public class Scraper {
             }
 
         }
-
+        
+        addToExcel(jobData, position);
         System.out.println("\nlinkedinJobs -----> " + linkedinJobs);
         System.out.println("indeedJobs -----> " + indeedJobs);
         System.out.println("bothJobs -----> " + bothJobs);
 
         originalOut.println("Program exit Scraper. ");
+
+    }
+
+    private void addToExcel(Map<Integer, Object[]> jobData, String position) throws IOException {
+    	XSSFWorkbook workbook = new XSSFWorkbook(new FileInputStream("/Users/nethravijayadas/Study/ACC/ResumeData/" + position + ".xlsx"));
+		XSSFSheet spreadsheet = workbook.createSheet(position+" Jobs");
+
+		// creating a row object
+		XSSFRow row;
+		Set<Integer> keyid = jobData.keySet();
+
+		int rowid = 0;
+
+		// writing the data into the sheets...
+
+		for (Integer key : keyid) {
+
+			row = spreadsheet.createRow(rowid++);
+			Object[] objectArr = jobData.get(key);
+			int cellid = 0;
+
+			for (Object obj : objectArr) {
+				Cell cell = row.createCell(cellid++);
+				cell.setCellValue((String) obj);
+			}
+		}
+		FileOutputStream out = new FileOutputStream(
+				new File("/Users/nethravijayadas/Study/ACC/ResumeData/" + position + ".xlsx"));
+
+		workbook.write(out);
+		out.close();
+		
+	}
+
+	public static void main(String[] args) {
+
+    	//scrapeLinkedInAndIndded();
 
     }
 
